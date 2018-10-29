@@ -10,8 +10,8 @@ This project revolved around predicting airline delays for multiple airlines usi
 
 ## Methods
 - Data Preprocessing
-..- Undersampling
-..- Subsetting
+...- Undersampling
+...- Subsetting
 - Feature Engineering
 - **Logistic Regression**
 - **Decision Tree**
